@@ -7,4 +7,5 @@ Steps to use:
 -   run in a simulator or on your phone
 
 Video of how I built it: https://youtu.be/KhMaMDdaclQ
-iOS app: TBD
+
+iOS app: https://apps.apple.com/us/app/braaitimeapp/id1545835541
